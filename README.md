@@ -33,13 +33,7 @@ The source notebooks were written for Kaggle and use `/kaggle/input` and `/kaggl
 3. Run `notebooks/patch_training.ipynb` for the printable patch workflow.
 4. Run the relevant experiment group in `notebooks/evaluation.ipynb` for transfer evaluation, patch examples, robustness and phone-camera analysis.
 
-Read notebook introductions and source-cell headings before running. Later cells depend on variables, paths and checkpoints produced earlier. These are curated source notebooks, not standalone one-click scripts.
 
-## External inputs not included
-This ZIP does not include the aerial dataset, trained detector weights, patch checkpoint `.pt` files or personal phone photographs. Attach authorised inputs separately in Kaggle. Evaluation cells require the corresponding weights/checkpoints; without them, those cells cannot execute.
-
-## Results
-`results/sample_metrics.csv` is a header-only template. No unverified or invented measurements are included.
 
 ## Source attribution and public release
 The curated code is extracted from the supplied Kaggle notebooks. Before making this repository public, confirm that you have permission to redistribute the notebook code and comply with its Kaggle licence and attribution terms. Do not upload credentials, restricted datasets or weights without permission.
