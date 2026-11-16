@@ -35,7 +35,6 @@ The source notebooks were written for Kaggle and use `/kaggle/input` and `/kaggl
 
 
 
-## Source attribution and public release
-The curated code is extracted from the supplied Kaggle notebooks. Before making this repository public, confirm that you have permission to redistribute the notebook code and comply with its Kaggle licence and attribution terms. Do not upload credentials, restricted datasets or weights without permission.
+
 
 AE5510 – Security of Safety-Critical Systems, IIT Madras.
