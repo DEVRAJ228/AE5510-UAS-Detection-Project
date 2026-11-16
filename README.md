@@ -1,12 +1,7 @@
 # AE5510 – Security of Safety-Critical Systems
 ## UAS object detection and printable adversarial-patch study
 
-This repository contains source-derived code curated from the two notebooks supplied for the project:
 
-- `uas-yolo (2).ipynb`: dataset preparation, annotation handling, YOLO detector training, experiment configurations and photo-level cross-validation.
-- `uas-ab.ipynb`: EOT and printable patch machinery, patch training, size-matched controls, robustness sweeps, cross-detector transfer evaluation and phone-camera pilot code.
-
-The original notebooks are preserved under `references/` for provenance. Curated notebooks retain selected cells from the originals and remove stored outputs.
 
 ## Structure
 ```text
