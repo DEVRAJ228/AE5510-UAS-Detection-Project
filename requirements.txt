@@ -1,0 +1,11 @@
+# Dependencies used by the supplied notebooks
+ultralytics
+torch
+torchvision
+numpy
+pandas
+Pillow
+opencv-python
+matplotlib
+PyYAML
+scikit-learn
